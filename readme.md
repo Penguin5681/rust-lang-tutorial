@@ -17,3 +17,5 @@ Rust has a lower execution time and memory management better than C, C++, Java.
 	2.5 Control Flow<br>
 
  
+## Contact Information <br>
+If you have questions or feedback, feel free to reach out to me at: [pranavsinha922@gmail.com](mailto:pranavsinha922@gmail.com).
