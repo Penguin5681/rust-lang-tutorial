@@ -12,9 +12,9 @@ Rust has a lower execution time and memory management better than C, C++, Java.
 2. Common Programming Concepts <br>
 	2.1 [Variables](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.1%20Variables) <br>
 	2.2 [Mutability](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.2%20Mutability)<br>
-	2.3 Data Types<br>
-	2.4 UDF (*User Defined Functions*)<br>
-	2.5 Control Flow<br>
+	2.3 [Data Types](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.3%20Data%20Types)<br>
+	2.4 [Control Flow](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.4%20Control%20Flow)<br>
+	2.5 [UDF (*User Defined Functions*)](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.5%20UDF%20(User%20Defined%20Functions))<br>
 
  
 ## Contact Information <br>
