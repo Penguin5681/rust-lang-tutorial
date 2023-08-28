@@ -16,9 +16,10 @@ Rust has a lower execution time and memory management better than C, C++, Java.
 	2.4 [Control Flow](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.4%20Control%20Flow)<br>
 	2.5 [UDF (*User Defined Functions*)](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/2.%20Common%20Programming%20Concepts/2.5%20UDF%20(User%20Defined%20Functions))<br>
  3. Understanding Ownership <br>
- 	3.1 What is Ownership? <br>
-    3.2 Ownership and functions <br>
-    3.3 References and Borrowing <br>
+ 	3.1 [What is Ownership?](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/3.%20Understanding%20Ownership/3.1%20What%20is%20Ownership%3F
+) <br>
+    3.2 [Ownership and functions](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/3.%20Understanding%20Ownership/3.2%20Ownership%20and%20Functions) <br>
+    3.3 [References and Borrowing](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/3.%20Understanding%20Ownership/3.3%20References%20and%20Borrowing) <br>
     3.4 The Slice <br>
  4. Structuring Related Data <br>
     4.1 Defining and Instantiating Structs <br>
