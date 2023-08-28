@@ -1,6 +1,6 @@
 # The Slice type explained
 
-Slice is pretty much similar to the one you may have used in python 
+Slice is pretty much similar to the one you may have used in python <br>
 In Rust, slicing refers to the process of creating a new reference to a portion of a data structure, such as an array, a vector, or a string, without copying the actual data. Slicing allows you to work with a subset of the original data without incurring the cost of copying or allocating new memory.
 
 Here are the key points to understand about slicing in Rust:
