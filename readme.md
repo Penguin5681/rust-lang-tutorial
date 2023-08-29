@@ -22,7 +22,7 @@ Rust has a lower execution time and memory management better than C, C++, Java.
     3.3 [References and Borrowing](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/3.%20Understanding%20Ownership/3.3%20References%20and%20Borrowing) <br>
     3.4 [The Slice](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/3.%20Understanding%20Ownership/3.4%20The%20Slice) <br>
  4. Structuring Related Data <br>
-    4.1 Defining and Instantiating Structs <br>
+    4.1 [Defining and Instantiating Structs](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/4.%20Structure%20Related%20Data%20using%20Struct/4.1%20Defining%20and%20Instantiating%20Structs) <br>
     4.2 An Example Program  <br>
     4.3 Method Syntax <br>
 
