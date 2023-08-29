@@ -1,4 +1,4 @@
-# Welcome to "The Rust" Lang!
+# Welcome to "The Rust" Language!
 Rust is a programming language developed by Mozilla that focuses on providing a high level of memory safety, while still maintaining performance. It aims to be a systems programming language, similar to C and C++, but with modern features and strong guarantees about memory safety, thread safety, and data race prevention.
 
 Rust has a lower execution time and memory management better than C, C++, Java.
