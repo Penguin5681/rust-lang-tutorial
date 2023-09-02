@@ -35,12 +35,12 @@ impl Rectangle {
 ```
 
 ## Let's breakdown the components of this example:
-### <li> '<b>impl Rectangle</b>': This is the beginning of the impl block, where 'Rectangle' is the type for which you are defining methods. The defined methods would only work of the instances of the struct Rectangle. </li>
-### <li> <b>'&self' </b>: This is the self parameter, representing the instance on which the method is called. It allows to access the values of the instance attributes. <br> <br> &emsp;  1. &self: Immutable borrowing (read-only access to the instance). <br> <br> &emsp; 2. &mut self: Mutable borrowing (allows modification of the instance). <br> <br> &emsp; 3. self: Consumes the instance, transferring ownership.</li> 
+### <li> '<em>impl Rectangle</em>': This is the beginning of the impl block, where 'Rectangle' is the type for which you are defining methods. The defined methods would only work of the instances of the struct Rectangle. </li>
+### <li> <em>'&self' </em>: This is the self parameter, representing the instance on which the method is called. It allows to access the values of the instance attributes. <br> <br> &emsp;  1. &self: Immutable borrowing (read-only access to the instance). <br> <br> &emsp; 2. &mut self: Mutable borrowing (allows modification of the instance). <br> <br> &emsp; 3. self: Consumes the instance, transferring ownership.</li> 
 
-### <li> <b>'get_area()'</b>: This is the method signature. It specifies the method's name, parameters, and return type. </li>
+### <li> <em>'get_area()'</em>: This is the method signature. It specifies the method's name, parameters, and return type. </li>
 
-## Multiple <b>'impl'</b> blocks
+## Multiple <em>'impl'</em> blocks
 ### There can be more than one 'impl' blocks for a single struct and the methods defined in different 'impl' blocks will work the same for every instance of the structure.
 ### Check out this example:
 ```rust
