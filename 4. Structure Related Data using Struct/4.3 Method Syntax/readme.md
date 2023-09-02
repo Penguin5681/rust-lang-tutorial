@@ -86,3 +86,31 @@ impl Rectangle {
     }
 }
 ``` 
+
+## Associated Functions
+
+### All functions defined within an <em> 'impl' </em> block are called associated functions because they’re associated with the type named after the <em> 'impl'</em>. <br> We can define associated functions that don’t have self as their first parameter (and thus are not methods) because they don’t need an instance of the type to work with. We’ve already used one function like this: the String::from function that’s defined on the String type. <br> <br> Associated functions that aren’t methods are often used for constructors that will return a new instance of the struct. These are often called new, but new isn’t a special name and isn’t built into the language. For example, we could choose to provide an associated function named square that would have one dimension parameter and use that as both width and height, thus making it easier to create a square Rectangle rather than having to specify the same value twice.
+
+### In C++ the '::' operator is known as <em>Scope Resolution Operator</em> and has the following uses: <ol> <li> To access a global variable when there is a local variable with same name. </li> <li> To define a function outside a class. </li> <li> To access a class’s static variables.  </li></ol> <br> <br> In Rust the '::' operator (aka "Path Separator") is used used to access the associative function:
+
+```rust
+fn main() {
+    let square = Rectangle::square(5);
+    // sets width and length as 5 
+}
+
+struct Rectangle {
+    width: u32,
+    length: u32,
+}
+
+impl Rectangle {
+    fn square(side: u32) -> Self {
+        Self {
+            width: side, 
+            length: side,
+        }
+    }
+}
+```
+
