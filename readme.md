@@ -28,7 +28,7 @@ Rust has a lower execution time and memory management better than C, C++, Java.
     
 5. Enums and Pattern Matching <br>
 	5.1. [Defining an Enum](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/5.%20Enums%20and%20Pattern%20Matching/5.1%20Defining%20an%20Enum)	<br>
-	5.2. The match Control Flow Construct <br>
+	5.2. [The match Control Flow Construct](https://github.com/Penguin5681/rust-lang-tutorial/tree/main/5.%20Enums%20and%20Pattern%20Matching/5.2.%20The%20match%20Control%20Flow%20Construct) <br>
 	5.3. Concise Control Flow with if let <br>
 
 ## Contact Information <br>
